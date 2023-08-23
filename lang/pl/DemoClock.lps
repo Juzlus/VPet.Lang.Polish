@@ -1,0 +1,66 @@
+DM时钟#Zegar:|
+设置#Ustawienia:|
+开始倒计时#Minutnik:|
+开始正计时#Stoper:|
+开始工作#Praca:|
+开始休息#Odpoczynek:|
+计时: {0:f1} 秒#Stoper: {0:f1} sekund:|
+计时: {0:f1} 分钟#Stoper: {0:f1} minut:|
+计时: {0:f1} 小时#Stoper: {0:f1} godzin:|
+时间到#Koniec:|
+计时结束#Czas upłynął:|
+点击此处回到时间显示#Kliknij tutaj, aby powrócić zegar z czasem:|
+剩余: {0:f1} 秒#Pozostało {0:f1} sekund:|
+剩余: {0:f1} 分钟#Pozostało {0:f1} minut:|
+剩余: {0:f1} 小时#Pozostało {0:f1} godzin:|
+工作结束#Koniec pracy:|
+点击此处开始休息#Kliknij tutaj, aby rozpocząć przerwę:|
+工作剩{0:f1}秒#Pozostało {0:f1} sekund pracy:|
+工作剩{0:f1}分钟#Pozostało {0:f1} minut pracy:|
+工作剩{0:f1}小时#Pozostało {0:f1} godzin pracy:|
+休息结束#Koniec przerwy:|
+点击此处开始工作#Kliknij tutaj, aby zacząć pracę:|
+休息剩{0:f1}秒#Pozostało {0:f1} sekund przerwy:|
+休息剩{0:f1}分钟#Pozostało {0:f1} minut przerwy:|
+休息剩{0:f1}小时#Pozostało {0:f1} godzin przerwy:|
+长休息结束#Koniec odpoczynku:|
+计时暂停#Stoper zatrzymany :|
+番茄点数 {0} 累计点数 {1}#Ilość pomidorów: {0} | Łączna ilość: {1}:|
+暂停倒计时#Zatrzymaj  minutnik:|
+继续倒计时#Wznów minutnik:|
+暂停计时#Zatrzymaj stoper:|
+继续计时#Wznów stoper:|
+停止工作#Przestań pracować:|
+是否停止当前工作?#Czy przerwać bieżącą pracę?:|
+停止休息#Koniec odpoczynku:|
+是否停止当前休息?#Czy przerwać bieżący odpoczynek?:|
+是否停止当前休息?\n扣除的番茄不会被退还#Czy przerwać bieżący odpoczynek?\nPomidory nie zostaną zwrócone.:|
+是否开始休息?\n休息所需番茄 {0}\n当前拥有番茄 {1}#Czy rozpocząć przerwę?\nPomidory potrzebne na przerwę: {0}\Obecna ilość pomidorów: {1}:|
+当前番茄不足,不能开始长休息\n休息所需番茄 {0}\n当前拥有番茄 {1}#Nie możemy iść na przerwę, jeżeli nie zbierzemy wystarczającej ilości pomidorów.\nPomidory potrzebne na przerwę: {0}\Obecna ilość pomidorów: {1}:|
+休息失败,请好好工作#To nie czas na przerwę. Zostało jeszcze wiele do zrobienia.:|
+基本时间设置#Podstawowe ustawienia zegaru:|
+24小时制#24 godziny:|
+时钟位置#Pozycja zegara:|
+闲置透明度#Przezroczystość :|
+显示层次#Rodzaj wyświetlania:|
+时间偏移#Przesunięcie czasowe:|
+默认倒计时#Domyślny czas dla minutnika:|
+倒计时语音#Głos - minutnik:|
+关闭时钟#Wyłącz zegar:|
+显示时间时启用24小时制#Włącz system 24-godzinny:|
+闲置时置于桌宠后方#Zegar zawsze na wierzchu:|
+选择位置#Wybierz:|
+前往 设置-MOD设置 启用/停用MOD#Przejdź do ustawień modyfikacji:|
+番茄钟相关设置#Ustawienia zegara roboczego:|
+工作时长#Długość pracy:|
+休息时长#Długość przerwy:|
+长休息时长#Długość odpoczynku:|
+工作语音#Głos - praca:|
+休息语音#Głos - przerwa:|
+结束语音#Głos - zakończenie:|
+语音预设#Zapisane ustawienia dźwięku:|
+setwidth#650:|
+Demo Clock 设置#Ustawienia zegara:|
+倒计时时间设定#Minutnik - Ustawienia:|
+请输入倒计时时间#Podaj czas dla minutnika:|
+确定#Potwierdź:|

@@ -1,0 +1,23 @@
+当前Token使用#Bieżące użycie tokena:|
+ServerFull#Wywołanie API nie powiodło się. Prosimy o ponowne przesłanie treści później. Bieżący serwer przekroczył limit użycia {0}/{1} słów na godzinę. Odczekaj 1 godzinę i spróbuj ponownie.:|
+NoUser#Najpierw należy zainicjować program do czatowania:|
+EmptyContent#Zawartość czatu jest pusta (uwaga: generalnie ta informacja zwrotna o błędzie nie zostanie wywołana):|
+SensitiveGive#Wykryto niedozwolone słowa: generowanie czatu zostało zakończone:|
+NoTokenVIP#Liczba tokenów pay-as-you-go została wyczerpana\nDzisiejsza liczba słów została wykorzystana  \nAktualna liczba użytych słów: {0}/{1}  \nPozostały czas do odświeżenia słów: {2} godziny.:|
+NoTokenUser#Dzisiejsza liczba słów została wykorzystana  \nAktualna liczba użytych słów: {0}/{1}  \nPozostały czas do odświeżenia słów: {2} godziny.:|
+EmptyResponse#Serwer zwrócił puste wywołanie \nPołączenie API nie powiodło się. Wyślij zawartość później. Jeśli wiele zwrotów jest pustych, odczekaj 1 godzinę i spróbuj ponownie.:|
+SensitiveReturn#Wykryto niedozwolone słowa: inicjalizacja czat nie powiodła się:|
+DIYSensitive#Niestandardowy start zawiera niedozwolone słowa, inicjalizacja vpet nie powiodła się:|
+NameEmpty#Nazwa zwierzaka nie może być pusta:|
+Outdated#Nieaktualne API, prosimy o aktualizację:|
+Offline#Tymczasowa obsługa techniczna API:|
+Steam Not purchased#Steam nie został zakupiony, należy uzyskać go za darmo na Steam, aby aktywować korzystanie z CGPT.:|
+IP times Max#Twój obecny adres IP został tymczasowo zablokowany. Odczekaj jeden dzień i spróbuj ponownie.:|
+服务器消耗倍率#Wskaźnik zużycia serwera:|
+当前使用字数#Aktualnie używany Token:|
+下次刷新时间#Data następnego odświeżenia :|
+由桌宠开发者提供的免费API#Darmowy interfejs API udostępniany przez deweloperów:|
+生成最大字数#Wygeneruj maksymalny Token:|
+由桌宠开发者提供的API#API dostarczane przez deweloperów:|
+VIP用户#Użytkownicy VIP:|
+按量付费字数#Liczba płatnych Tokenów:|

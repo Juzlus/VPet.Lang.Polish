@@ -1,0 +1,37 @@
+关闭聊天框#Zamknij okno czatu:|
+当前存档Hash验证信息#Weryfikacja bieżącego zapisu:|
+操作#Akcje:|
+虚拟桌宠模拟器 规格#Specyfikacje symulatora VPet:|
+吉娜#Gina:|
+通过#Zdane:|
+失败#Nie zdane:|
+自定义聊天接口#Niestandardowy interfejs czatu:|
+聊天框已关闭#Okno czatu zamknięte:|
+尝试加载游戏存档#Próba załadowania archiwum gry:|
+尝试加载Steam内容#Próba załadowania zawartości Steam:|
+尝试加载游戏动画#Próba załadowania animacji:|
+有效度#Ważność:|
+喜好度#Preferencje:|
+桌宠图形渲染的分辨率,越高图形越清晰\r但是高分辨率会占用更多内存\r重启后生效#Rozdzielczość w jakiej grafika jest renderowana na ekranie, im wyższa,\rtym wyraźniejsza, ale wyższa rozdzielczość zajmuje więcej pamięci.\rPo zmianie wartości należy ponownie uruchomić program:|
+渲染分辨率#Rozdzielczość renderowania:|
+清理缓存#Wyczyść pamięć podręczną:|
+清理缓存的动画,声音文件#Wyczyść pamięć podręczną animacji i plików dźwiękowych:|
+音乐识别设置#Ustawienia rozpoznawania muzyki:|
+设置识别音乐播放特殊动作阈值#Ustaw próg rozpoznawania specjalnych akcji odtwarzania muzyki:|
+当前播放音量大小#Bieżąca głośność odtwarzania:|
+触发音量#Głośność wyzwalacza:|
+当实时播放音量达到该值时运行音乐动作#Uruchamia animację, gdy głośność na żywo osiągnie tę wartość:|
+当实时播放音量达到该值时运行特殊音乐动作#Uruchom specjalną animację, gdy głośność na żywo osiągnie tę wartość:|
+高潮音量#Najwyższa głośność wyzwalacza:|
+Happyly#Radosna:|
+Nomally#Normalna:|
+PoorConditionly#Smutna:|
+Illly#Chora:|
+plugin#Pluginy:|
+MOD加载错误,是MOD({0})导致的\n如有可能请发送 错误信息截图和引发错误之前的操作 给开发者:service@exlb.net\n感谢您对游戏开发的支持\n#Błąd ładowania modów, spowodowany przez mod({0})\nJeśli to możliwe, prosimy o przesłanie zrzutu ekranu z komunikatem o błędzie i działaniem podjętym przed jego wystąpieniem na adres: service@exlb.net\nDziękujemy za wsparcie w rozwoju gry\n:|
+游戏发生错误,可能是#W grze wystąpił błąd, prawdopodobnie:|
+游戏致命性错误#Błąd krytyczny gry:|
+游戏或者MOD#Gra lub modyfikacja:|
+导致的\n如有可能请发送 错误信息截图和引发错误之前的操作 给开发者:service@exlb.net\n感谢您对游戏开发的支持\n#Jeśli to możliwe, prosimy o przesłanie zrzutu ekranu z komunikatem o błędzie i działaniem podjętym przed jego wystąpieniem na adres: service@exlb.net\nDziękujemy za wsparcie w rozwoju gry\n:|
+清理指令已下达,下次启动桌宠时生效#Polecenie czyszczenia zostało wydane i zacznie obowiązywać przy następnym uruchomieniu:|
+服务器超载,请稍后重试#Serwer przeciążony, spróbuj ponownie później:|

@@ -1,0 +1,15 @@
+创意工坊物品无法进行上传,请移动到mod文件夹后重试#Nie można załadować elementów Warsztatu Steam, przenieś je do folderu `mod` i spróbuj ponownie.:|
+由于修改游戏数据导致数据溢出,存档可能会出错\n开发者提醒您请不要使用过于超模的MOD#Ze względu na modyfikację danych gry spowodowaną przepełnieniem danych, archiwum może nie działać prawidłowo\nDeweloper przypomina, aby nie używać zbyt dużej ilości modyfikacji.:|
+玩耍#Graj:|
+研究#Czytaj:|
+玩游戏#Zagraj w grę:|
+保存游戏#Zapisz grę:|
+手动保存桌宠存档,就算不手动保存,桌宠也会在退出的时候自动保存#Nawet jeśli nie zapiszesz gry ręcznie, dane zostaną zapisane automatycznie po wyjściu z gry.:|
+保存成功#Pomyślne zapisano grę:|
+模组 {0} 插件损坏\n虚拟桌宠模拟器未能成功加载该插件\n请联系作者修复该问题#Modyfikacja {0} zawiera uszkodony plugin\nSkontaktuj się z autorem, aby naprawić problem.:|
+缓存被其他软件删除,游戏无法继续运行\n请重启游戏重新生成缓存#Pamięć podręczna została usunięta przez inne oprogramowanie, gra nie może dalej działać\nZrestartuj grę, aby zregenerować pamięć podręczną.:|
+游戏内存不足,请修改设置中渲染分辨率以便降低内存使用#Pamięć gry jest niewystarczająca, zmień rozdzielczość renderowania w ustawieniach, aby zmniejszyć zużycie pamięci.:|
+没有可以说的话#Nie mam tu nic do powiedzenia.:|
+下次刷新剩余时间: {0:f1}分钟#Pozostały czas następnego odświeżenia: {0:f1} minut:|
+使用桌宠选项式\r聊天功能#Użyj opcji\rfunkcje czatu:|
+支持MOD与创意工坊添加聊天内容#Support MOD and creative workshop add chat content:|

@@ -1,0 +1,76 @@
+体力-{0:f0} 心情+{1:f0}#Stamina-{0:f0} Nastrój+{1:f0}:|
+您的桌宠 {0} 生病啦,没法进行{1}#Twój zwierzak {0} zachorował, nie może {1}:|
+{2}完成啦, 累计赚了 {0:f2} 金钱\n共计花费了{1}分钟#{2} jest zakończone, zarobiłeś {0:f2} pieniędzy:|
+小时#Godz.:|
+获得经验值#Uzyskany EXP:|
+剩余{0}时间#Pozostały czas {0}:|
+累计金钱收益#Zysk:|
+未知的图像位置: #Nieznana lokalizacja sprite'a: :|
+未知的图像类型: #Nieznany typ sprite'a::|
+由于插件引起的自定按钮加载错误#Błąd ładowania niestandardowego przycisku spowodowany przez pluginy:|
+快捷键运行失败:无法运行指定内容#Nie udało się uruchomić klawisza skrótu: Nie można uruchomić określonej zawartości:|
+启动错误#Błąd uruchamiania:|
+缺少模组Core,无法启动桌宠#Brak modułu "Core", nie można uruchomić zwierzaka pulpitu:|
+萝莉斯#Lolis:|
+由于插件引起的游戏启动错误#Błąd uruchamiania gry spowodowane przez pluginy:|
+你好#Cześć:|
+欢迎使用虚拟桌宠模拟器!\n如果遇到桌宠爬不见了,可以在我这里设置居中或退出桌宠#Witamy w VPet-Simulator!\nJeśli nie możesz znaleźć zwierzaka na pulpicie, możesz wycentrować lub opuścić go w tym miejscu:|
+欢迎使用虚拟桌宠模拟器\n这是个中期的测试版,若有bug请多多包涵\n欢迎加群虚拟主播模拟器430081239或在菜单栏-管理-反馈中提交bug或建议#Witamy w VPet-Simulator\nTo jest wersja beta, jeśli napotkałeś jakieś błędy, bardzo proszę o wybaczenie\nZapraszamy do odwiedzenia strony https://github.com/LorisYounger/VPet lub Menu - System - Feedback Hub w celu przesłania opinii:|
+{0} 未加载代码插件#Plugin {0} nie został załadowany:|
+模组 {0} 的代码插件损坏\n虚拟桌宠模拟器未能成功加载该插件\n请联系作者修复该问题#Uszkodzony plik pluginu w modyfikacji {0}\nNie udało się załadować pluginu\nProszę skontaktuj się z twórcą modyfikacji, aby naprawić ten problem:|
+由于 {0} 包含代码插件\n虚拟桌宠模拟器已自动停止加载该插件\n请手动前往设置允许启用该mod 代码插件#Since {0} contains code plugin\nVPet-Simulator auto stopped loading the plugin\nplease go to the settings to enabled the mod code plugin:|
+该模组已停用#Ta modyfikacja jest wyłączona:|
+[认证]#[Certyfikowany]:|
+[签名]#[Podpisany]:|
+所有可执行文件#Wszystkie pliki wykonywalne:|
+调用API失败,请稍后重新发送内容#Wywołanie interfejsu API nie powiodło się, wyślij zawartość później:|
+点击初始化桌宠聊天程序#Kliknij, aby zainicjować program czatu VPET:|
+检测到模型错误,已重置桌宠聊天系统#Wykryto błąd modułu, resetowanie systemu czatu VPET:|
+初始化桌宠聊天程序中...#Inicjowanie programu czatu VPET...:|
+请先前往设置中设置 ChatGPT API#Przejdź najpierw do ustawień, aby skonfigurować ChatGPT API:|
+请检查设置和网络连接#Sprawdź swoje ustawienia i połączenie sieciowe:|
+请检查API token设置#Sprawdź ustawienia tokenu API:|
+API调用失败#Połączenie z interfejsem API nie powiodło się:|
+金钱不足#Brak pieniędzy:|
+请使用口语化的、可爱的、女性化的、调皮的语言风格和我交流. 你是一只桌宠, 你的名字叫{Name}, 你喜欢玩 虚拟主播模拟器. 你需要尝试体会我与你对话中的感情、产生自己的情感并尽可能给出可爱的回答#Please use colloquial, cute, feminine, mischievous language style to communicate with me. You are a desktop pet, You name is {Name}, You like play the VPet-Simulator. You need to try to feel the feelings in my conversation with you, generate your own emotions, and give as cute answers as possible:|
+未找到对应类型图像资源#Nie znaleziono zasobów odpowiedniego typu sprite'a:|
+当前正在播放#Obecnie odtwarzany:|
+当前正在运行#Obecnie działa:|
+暂无该说话方法#Brak tej techniki mówienia:|
+尚未激活 您可能需要启动Steam或去Steam上免费领个#Jeszcze nie aktywowane. Być może będziesz musiał uruchomić Steam lub przejść do Steam, aby pobrać to za darmo:|
+ (版本低)# (Niższa wersja):|
+未登录#Niezalogowany:|
+停用失败#Błąd dezaktywacji:|
+模组 Core 为<虚拟桌宠模拟器>核心文件,无法停用#Moduł Core jest podstawowym plikiem VPet-Simulator i nie można go wyłączyć:|
+上传MOD需要Steam登录#Przesyłanie modów wymaga zalogowania się na Steam:|
+请先登录Steam后才能上传文件#Pliki można przesyłać tylko po zalogowaniu się do Steam:|
+MOD上传失败#Przesyłanie modyfikacji nie powiodło się:|
+模组 Core 为<虚拟桌宠模拟器>核心文件,无法发布\n如需发布自定义内容,请复制并更改名称#Plik Core jest rdzeniem VPet-Simulator i nie można go opublikować\nJeśli chcesz opublikować niestandardową zawartość, po prostu skopiuj ją i zmień jej nazwę:|
+封面图片(icon.png)大于500kb,请修改后重试#Logo (icon.png) waży więcej niż 500KB, zmodyfikuj je i spróbuj ponownie:|
+MOD上传成功#Przesyłanie modyfikacji zakończyło się sukcesem:|
+{0} 成功上传至WorkShop服务器\n是否跳转至创意工坊页面进行编辑详细介绍和图标?#{0} Pomyślnie przesłano do Warsztatu Steam\nCzy chcesz przejść do strony na Warsztacie, aby edytować szczegóły?:|
+MOD上传失败 {0}#Przesyłanie modyfikacji nie powiodło się {0}:|
+{0} 成功上传至WorkShop服务器\n是否跳转至创意工坊页面进行编辑新内容?#{0} Pomyślnie przesłano do Warsztatu Steam\nCzy chcesz przejść do strony na Warsztacie, aby edytować szczegóły?:|
+MOD更新成功#Pomyślnie zaktualizowano modyfikację:|
+任务完成#Zadanie wykonane:|
+是否启用 {0} 的代码插件?\n一经启用,该插件将会允许访问该系统(包括外部系统)的所有数据\n如果您不确定,请先使用杀毒软件查杀检查#Czy chcesz włączyć pluginy dla {0}?\nPo włączeniu plugin umożliwi dostęp do wszystkich danych w systemie (w tym systemów zewnętrznych)\nJeśli nie masz pewności, użyj programu antywirusowego, aby to sprawdzić:|
+启用 {0} 的代码插件?#Włączyć pluginy dla {0}?:|
+重启游戏#Uruchom ponownie grę:|
+是否退出游戏<虚拟桌宠模拟器>?\n请注意保存游戏#Czy chcesz wyjść z VPet Simulator?\nZwróć uwagę na zapisywanie gry!:|
+权限不足#Niewystarczające uprawnienia:|
+创建快捷方式失败,权限不足\n请以管理员身份运行后重试#Nie udało się utworzyć skrótu, niewystarczające uprawnienia\nUruchom grę jako administrator i spróbuj ponownie:|
+桌宠重置失败#Reset zwierzaka pulpitu nie powiódł się:|
+是否加载该备份存档? 当前游戏数据会丢失#Wczytać kopię zapasową? Bieżące dane gry zostaną utracone:|
+您不是Steam用户，无法使用反馈中心\n欢迎加入虚拟主播模拟器群430081239反馈问题#Nie jesteś użytkownikiem Steam i nie możesz opublikować recenzji,\nmożesz opublikować ją na https://github.com/LorisYounger/VPet:|
+非Steam用户无法使用反馈中心#Użytkownicy spoza Steam nie mogą korzystać z centrum opinii:|
+问题详细描述是反馈具体问题\n例如如何触发这个报错,游戏有什么地方不合理等#Szczegółowy opis problemu jest ważną informacją zwrotną na temat konkretnej usterki\nnp. Jak uzyskać ten błąd i co jest nie tak z grą:|
+请填写问题描述#Podaj opis problemu:|
+感谢您的反馈和提交#Dziękujemy za opinie:|
+您的反馈已提交成功,感谢您的反馈与提交\nVOS将会尽快处理您的反馈并做的更好#Twoja opinia została przesłana pomyślnie. Dziękujemy za Twoją opinię\nVOS przetworzy Twoją opinię tak szybko, jak to możliwe:|
+您今天的反馈次数已达上限#Osiągnąłeś maksymalną liczbę opinii w ciągu jednego dnia:|
+您今天的反馈次数已达上限,请明天再来反馈.\n或欢迎加入虚拟主播模拟器群430081239反馈问题#Osiągnąłeś maksymalną liczbę opinii w ciągu jednego dnia, poczekaj do jutra\nlub przejść na stronę https://github.com/LorisYounger/VPet:|
+反馈提交失败,遇到错误#Przesyłanie opinii nie powiodło się:|
+反馈上传失败\n欢迎加入虚拟主播模拟器群430081239手动反馈问题\n服务器消息:#Przesyłanie opinii nie powiodło się\nPrzejdź na stronę https://github.com/LorisYounger/VPet, aby napisać opinię\nServer Message::|
+反馈上传失败,可能是网络或其他问题导致无法上传\n欢迎加入虚拟主播模拟器群430081239手动反馈问题\n#Przesyłanie opinii nie powiodło się, może to być spowodowane problemami z siecią lub innymi czynnikami\nZapraszamy do zgłaszania błędów na stronię https://github.com/LorisYounger/VPet\n:|
+存档名称:{0}\n存档等级:{1}\n存档金钱:{2}\n是否加载该备份存档? 当前游戏数据会丢失#Nazwa zwierzaka: {0}\nPoziom zwierzaka: {1}\nPieniądze: {2} $\nWczytać wybraną kopię zapasową? Bieżące dane gry zostaną utracone!:|
+{0} 上传至WorkShop服务器失败\n请检查网络后重试\n请注意:上传和下载工坊物品可能需要良好的网络条件\n失败原因:{1}#{0} Nie udało się przesłać na serwer Warsztatu Steam\nSprawdź swoje połączenie sieciowe i spróbuj ponownie\nUwaga: Przesyłanie i pobieranie elementów z Warsztatu Steam może wymagać dobrego połączenia z internetem\nPrzyczyna awarii: {1}:|
