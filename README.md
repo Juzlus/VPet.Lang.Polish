@@ -3,7 +3,7 @@
 # 🤔 About
 <img src="https://steamuserimages-a.akamaihd.net/ugc/2012599246957698852/7DF3A03BECF939FEBC84435AAAB71D7C3896BEA1/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" align="right" width="150px"/>
 
-Polish language pack for VPet-Simulator. [Page on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3022291134).
+Polish language pack for [VPET Simulator](https://store.steampowered.com/app/1920960/VPet/). [Page on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3022291134).
 <br>
 The language pack also includes the Polish language for the following modifications:
 - [EdgeTTS](https://steamcommunity.com/sharedfiles/filedetails/?id=3018320779&searchtext=EdgeTTS)
